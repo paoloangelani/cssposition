@@ -452,7 +452,6 @@ footer a {
 }
 
 .up {
-  position: sticky;
   bottom: 1em;
   right: 0;
   position: fixed;
